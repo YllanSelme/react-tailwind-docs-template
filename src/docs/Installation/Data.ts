@@ -1,9 +1,9 @@
 export const onThisPage = [
-    { title: 'Installation', to: '/docs/gettingstarted/installation'},
-    { title: 'Overview', to: '/docs/gettingstarted/overview'}
+    { title: 'Installation', to: '/react-tailwind-docs-template/docs/gettingstarted/installation'},
+    { title: 'Overview', to: '/react-tailwind-docs-template/docs/gettingstarted/overview'}
 ];
 
 export const changePage = {
     previous : { title: '', to: ''},
-    next : { title: 'Overview', to: '/docs/gettingstarted/overview'}
+    next : { title: 'Overview', to: '/react-tailwind-docs-template/docs/gettingstarted/overview'}
 }

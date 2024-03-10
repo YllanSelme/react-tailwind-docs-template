@@ -2,22 +2,22 @@ export const sections = [
     {
         title: 'Getting Started',
         children: [
-            { title: 'Installation', to: '/docs/gettingstarted/installation' },
-            { title: 'Overview', to: '/docs/gettingstarted/overview' }
+            { title: 'Installation', to: '/react-tailwind-docs-template/docs/gettingstarted/installation' },
+            { title: 'Overview', to: '/react-tailwind-docs-template/docs/gettingstarted/overview' }
         ]
     },
     {
         title: 'Building Your Application',
         children: [
-            { title: 'Routing', to: '/docs/buildingyourapplication/routing' },
-            { title: 'Data Fetching', to: '/docs/buildingyourapplication/datafetching' }
+            { title: 'Routing', to: '/react-tailwind-docs-template/docs/buildingyourapplication/routing' },
+            { title: 'Data Fetching', to: '/react-tailwind-docs-template/docs/buildingyourapplication/datafetching' }
         ]
     },
     {
         title: 'Customization',
         children: [
-            { title: 'Configuration', to: '/docs/customisation/configuration' },
-            { title: 'Content', to: '/docs/customisation/content' }
+            { title: 'Configuration', to: '/react-tailwind-docs-template/docs/customisation/configuration' },
+            { title: 'Content', to: '/react-tailwind-docs-template/docs/customisation/content' }
         ]
     }
 ];

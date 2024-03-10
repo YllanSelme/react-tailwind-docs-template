@@ -1,4 +1,3 @@
-import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./Home/Home";
 import Installation from "./docs/Installation/Installation";
@@ -8,7 +7,8 @@ function App() {
         <BrowserRouter>
           <Routes>
             <Route index element={<Home />} />
-            <Route path="docs/gettingstarted/installation" element={<Installation />} />
+            <Route path="react-tailwind-docs-template/docs/gettingstarted/installation" element={<Installation />} />
+            <Route path="react-tailwind-docs-template" element={<Home />} />
           </Routes>
         </BrowserRouter>
       );
