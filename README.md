@@ -1,5 +1,5 @@
 Screenshot : 
-![Screenshot](relative%20path/to/screenshot.png?raw=true "Screenshot")
+![Screenshot](https://raw.githubusercontent.com/YllanSelme/react-tailwind-docs-template/main/screenshot.png)
 
 # Getting Started with Create React App
 
