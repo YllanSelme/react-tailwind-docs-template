@@ -7,7 +7,7 @@ function Installation() {
     return(
         <div>
             <Header />
-            <div className="flex">
+            <div className="flex justify-center">
                 <div className="hidden md:block"><Map /></div>
                 <div className="p-3 md:p-10 border-l border-r max-w-4xl">
                     <h1 className="text-slate-900 font-extrabold text-4xl">Installation</h1>
